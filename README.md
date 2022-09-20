@@ -5,7 +5,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
 # Table of Contents 
 
 * **Week 0 - Scratch []**
-  * Scratch
+  * Scratch project
 
 * **Week 1 - C []**
   * Lab

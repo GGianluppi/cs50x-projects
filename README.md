@@ -4,10 +4,10 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
 
 # Table of Contents 
 
-* Week 0 Scratch []
+* **Week 0 - Scratch []**
   * Scratch
 
-* Week 1 C []
+* **Week 1 - C []**
   * Lab
     * Hello
   * Problem set
@@ -17,7 +17,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Cash
     * Credit 
 
-* Week 2 Arrays []
+* **Week 2 - Arrays []**
   * Lab
     * Scrabble
 
@@ -26,7 +26,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Ceasar
     * Substitution
     
-* Week 3 Algorithms []
+* **Week 3 - Algorithms []**
   * Lab
     * Sort
 

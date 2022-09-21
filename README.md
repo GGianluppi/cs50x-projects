@@ -11,7 +11,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
   * Lab
     * Hello
   * Problem set
-    * Mario Less 
+    * Mario
        * Less confortable
        * More confortable
     * Cash
@@ -20,7 +20,6 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
 * **Week 2 - Arrays []**
   * Lab
     * Scrabble
-
   * Problem set
     * Readability
     * Ceasar
@@ -29,12 +28,18 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
 * **Week 3 - Algorithms []**
   * Lab
     * Sort
-
   * Problem set
     * Plurality
     * Runoff
     * Tideman
    
 * **Week 4 - Memory []**
+  * Lab
+    * Volume
+  * Problem set
+    * Filter
+      * Less confortable
+      * More confortable
+    * Recover
   
   

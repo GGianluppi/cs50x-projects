@@ -32,7 +32,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Plurality
     * Runoff
     * Tideman
-   
+    
 * **Week 4 - Memory []**
   * Lab
     * Volume

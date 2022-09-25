@@ -1,4 +1,4 @@
-<p align="center"> CS50x 2022 </p>
+<h1 align="center">CS50x 2022</h1>
 
 Enroll here: [CS50x](https://cs50.harvard.edu/x/2022/)<br />
 Instructor: [David J. Malan](https://cs.harvard.edu/malan/)

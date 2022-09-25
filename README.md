@@ -8,7 +8,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
 * **Week 0 - Scratch ```['Basic of programming']```**
   * Scratch project
 
-* **Week 1 - C ['Basic of C (Operators, Conditional Statements, Loops), Greedy Algorithm']**
+* **Week 1 - C ```['Basic of C (Operators, Conditional Statements, Loops), Greedy Algorithm']```**
   * Lab
     * Hello
   * Problem set
@@ -18,7 +18,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Cash
     * Credit 
 
-* **Week 2 - Arrays []**
+* **Week 2 - Arrays ```[]```**
   * Lab
     * Scrabble
   * Problem set
@@ -26,7 +26,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Ceasar
     * Substitution
     
-* **Week 3 - Algorithms []**
+* **Week 3 - Algorithms ```[]```**
   * Lab
     * Sort
   * Problem set

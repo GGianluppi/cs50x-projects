@@ -1,9 +1,9 @@
 <h1 align="center">CS50x 2022</h1>
 
-<p align="center">
-Enroll here: [CS50x](https://cs50.harvard.edu/x/2022/)<br/>
+
+<p align="center">Enroll here: [CS50x](https://cs50.harvard.edu/x/2022/)<br/></p>
 Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
-</p>
+
 # Table of Contents 
 
 * **Week 0 - Scratch ['Basic of programming']**

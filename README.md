@@ -5,7 +5,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
 
 # Table of Contents 
 
-* **Week 0 - Scratch ['Basic of programming']**
+* **Week 0 - Scratch '''['Basic of programming']'''**
   * Scratch project
 
 * **Week 1 - C ['Basic of C (Operators, Conditional Statements, Loops), Greedy Algorithm']**

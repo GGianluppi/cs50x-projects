@@ -1,6 +1,6 @@
-<h1 align="center">HCS50x 2022
-Enroll here: [CS50x](https://cs50.harvard.edu/x/2022/)\
-Instructor: [David J. Malan](https://cs.harvard.edu/malan/)</h1>
+<h1 align="center">CS50x 2022</h1>
+<h1 align="center">Enroll here: [CS50x](https://cs50.harvard.edu/x/2022/)</h1>
+<h1 align="center">Instructor: [David J. Malan](https://cs.harvard.edu/malan/)</h1>
 
 # Table of Contents 
 

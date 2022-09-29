@@ -18,7 +18,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Cash
     * Credit 
 
-* **Week 2 - Arrays ```[Array, Cryptography, Encryption]```**
+* **Week 2 - Arrays ```[Arrays, Cryptography, Encryption]```**
   * Lab
     * Scrabble
   * Problem set

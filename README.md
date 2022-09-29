@@ -18,7 +18,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Cash
     * Credit 
 
-* **Week 2 - Arrays ```[]```**
+* **Week 2 - Arrays ```[Array, Cryptography, Encryption]```**
   * Lab
     * Scrabble
   * Problem set
@@ -26,7 +26,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Ceasar
     * Substitution
     
-* **Week 3 - Algorithms ```[Linear Search, Binary Search, Bubble Sort, Selection Sort, Merge Sort, Recursion]```**
+* **Week 3 - Algorithms ```[Algorithms (Linear Search, Binary Search, Bubble Sort, Selection Sort, Merge Sort), Recursion, Graph Theory Basics]```**
   * Lab
     * Sort
   * Problem set
@@ -34,7 +34,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Runoff
     * Tideman
     
-* **Week 4 - Memory ```[Pointers, Dynamic Memory Allocation, Call Stack, File Pointers]```**
+* **Week 4 - Memory ```[Pointers, Dynamic Memory Allocation, Call Stack, Image filters, File manipulation & Data Recovery]```**
   * Lab
     * Volume
   * Problem set

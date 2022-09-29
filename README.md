@@ -34,7 +34,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Runoff
     * Tideman
     
-* **Week 4 - Memory ```[]```**
+* **Week 4 - Memory ```[Pointers, Dynamic Memory Allocation, Call Stack, File Pointers]```**
   * Lab
     * Volume
   * Problem set

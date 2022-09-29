@@ -26,7 +26,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Ceasar
     * Substitution
     
-* **Week 3 - Algorithms ```[]```**
+* **Week 3 - Algorithms ```[Linear Search, Binary Search, Bubble Sort, Selection Sort, Merge Sort, Recursion]```**
   * Lab
     * Sort
   * Problem set

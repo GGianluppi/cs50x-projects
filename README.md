@@ -44,7 +44,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Recover
 
 * **Week 5 - Data Structures ```[]```**
-* Lab
+  * Lab
     * Inheritance
   * Problem set
     * Speller

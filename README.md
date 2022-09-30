@@ -42,5 +42,11 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
       * Less confortable
       * More confortable
     * Recover
+
+* **Week 5 - Data Structures ```[]```**
+* Lab
+    * Inheritance
+  * Problem set
+    * Speller
   
   

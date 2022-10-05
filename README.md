@@ -43,7 +43,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
       * More confortable
     * Recover
 
-* **Week 5 - Data Structures ```[]```**
+* **Week 5 - Data Structures ```[Data Structures, Linked list, Hash tables, Trees]```**
   * Lab
     * Inheritance
   * Problem set

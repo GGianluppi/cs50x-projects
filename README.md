@@ -10,7 +10,7 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
 
 * **Week 1 - C ```[Basic of C (Operators, Conditional Statements, Loops), Greedy Algorithm]```**
   * Lab
-    * [Hello]()
+    * **[Hello]()**
   * Problem set
     * Mario
        * Less confortable

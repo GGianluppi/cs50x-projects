@@ -48,5 +48,18 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * Inheritance
   * Problem set
     * Speller
+
+* **Week 6 - Python ```[]```**
+  * Lab
+    * World Cup
+  * Problem set
+    * Hello
+    * Mario
+      * Less confortable
+      * More confortable
+    * Cash
+    * Credit
+    * Readability
+    * DNA
   
   

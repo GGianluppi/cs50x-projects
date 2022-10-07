@@ -12,7 +12,7 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
   * Lab
     * **[Hello]()**
   * Problem set
-    * Mario
+    * **[Mario]()**
        * **[Less confortable]()**
        * **[More confortable]()**
     * **[Cash]()**
@@ -38,7 +38,7 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
   * Lab
     * **[Volume]()**
   * Problem set
-    * Filter
+    * **[Filter]()**
       * **[Less confortable]()**
       * **[More confortable]()**
     * **[Recover]()**

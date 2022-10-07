@@ -13,41 +13,41 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
     * **[Hello]()**
   * Problem set
     * Mario
-       * Less confortable
-       * More confortable
-    * Cash
-    * Credit 
+       * **[Less confortable]()**
+       * **[More confortable]()**
+    * **[Cash]()**
+    * **[Credit]()**
 
 * **Week 2 - Arrays ```[Arrays, Cryptography, Encryption]```**
   * Lab
-    * Scrabble
+    * **[Scrabble]()**
   * Problem set
-    * Readability
-    * Ceasar
-    * Substitution
+    * **[Readability]()**
+    * **[Ceasar]()**
+    * **[Substitution]()**
     
 * **Week 3 - Algorithms ```[Algorithms (Linear Search, Binary Search, Bubble Sort, Selection Sort, Merge Sort), Recursion, Graph Theory Basics]```**
   * Lab
-    * Sort
+    * **[Sort]()**
   * Problem set
-    * Plurality
-    * Runoff
-    * Tideman
+    * **[Plurality]()**
+    * **[Runoff]()**
+    * **[Tideman]()**
     
 * **Week 4 - Memory ```[Pointers, Dynamic Memory Allocation, Call Stack, Image filters, File manipulation & Data Recovery]```**
   * Lab
-    * Volume
+    * **[Volume]()**
   * Problem set
     * Filter
-      * Less confortable
-      * More confortable
-    * Recover
+      * **[Less confortable]()**
+      * **[More confortable]()**
+    * **[Recover]()**
 
 * **Week 5 - Data Structures ```[Data Structures, Linked list, Hash tables, Trees]```**
   * Lab
-    * Inheritance
+    * **[Inheritance]()**
   * Problem set
-    * Speller
+    * **[Speller]()**
 
 * **Week 6 - Python ```[]```**
   * Lab

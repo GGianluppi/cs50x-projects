@@ -1,7 +1,7 @@
 # CS50 Introduction to Computer Science
 
-Enroll here: [CS50x](https://cs50.harvard.edu/x/2022/)<br/>
-Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
+Enroll here: **[CS50x](https://cs50.harvard.edu/x/2022/)**<br/>
+Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
 
 # Table of Contents 
 
@@ -51,15 +51,15 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
 
 * **Week 6 - Python ```[]```**
   * Lab
-    * World Cup
+    * **[World Cup]()**
   * Problem set
-    * Hello
+    * **[Hello]()**
     * Mario
-      * Less confortable
-      * More confortable
-    * Cash
-    * Credit
-    * Readability
-    * DNA
+      * **[Less confortable]()**
+      * **[More confortable]()**
+    * **[Cash]()**
+    * **[Credit]()**
+    * **[Readability]()**
+    * **[DNA]()**
   
   

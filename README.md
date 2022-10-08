@@ -32,7 +32,7 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
   * Problem set
     * **[Plurality]()**
     * **[Runoff]()**
-    * **[Tideman]()** :exploding_head:
+    * **[Tideman]()** :fire:
     
 * **Week 4 - Memory ```[Pointers, Dynamic Memory Allocation, Call Stack, Image filters, File manipulation & Data Recovery]```**
   * Lab
@@ -47,7 +47,7 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
   * Lab
     * **[Inheritance]()**
   * Problem set
-    * **[Speller]()**
+    * **[Speller]()** :fire:
 
 * **Week 6 - Python ```[]```**
   * Lab

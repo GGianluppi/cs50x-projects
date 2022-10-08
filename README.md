@@ -32,7 +32,7 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
   * Problem set
     * **[Plurality]()**
     * **[Runoff]()**
-    * **[Tideman]()**
+    * **[Tideman]()** :exploding_head:
     
 * **Week 4 - Memory ```[Pointers, Dynamic Memory Allocation, Call Stack, Image filters, File manipulation & Data Recovery]```**
   * Lab

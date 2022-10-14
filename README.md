@@ -50,7 +50,7 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
   * Problem set
     * **[Speller]()** :fire:
 
-* **Week 6 - Python ```[Basic of Python]```**
+* **Week 6 - Python ```[Basic of Python, Algorithms, File]```**
   * Lab
     * **[World Cup]()**
   * Problem set

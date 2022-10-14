@@ -55,7 +55,7 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
     * **[World Cup]()**
   * Problem set
     * **[Hello]()**
-    * Mario
+    * **[Mario]()**
       * **[Less confortable]()**
       * **[More confortable]()**
     * **[Cash]()**

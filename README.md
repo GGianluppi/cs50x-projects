@@ -62,5 +62,8 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
     * **[Credit]()**
     * **[Readability]()**
     * **[DNA]()**
+    
+ * **Week 7 - SQL ```[]```**
+   
   
   

@@ -64,6 +64,11 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
     * **[DNA]()**
     
  * **Week 7 - SQL ```[]```**
+   * Lab
+    * **[Songs]()**
+  * Problem set
+    * **[Movies]()** 
+    * **[Fiftyville]()** 
    
   
   

@@ -63,7 +63,7 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
     * **[Readability]()**
     * **[DNA]()**
     
- * **Week 7 - SQL ```[Data processing]```**
+ * **Week 7 - SQL ```[Data processing, Relational Dadabase]```**
    * Lab
      * **[Songs]()**
    * Problem set

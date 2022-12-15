@@ -68,7 +68,14 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
      * **[Songs]()**
    * Problem set
      * **[Movies]()** 
-     * **[Fiftyville]()** 
+     * **[Fiftyville]()**
+     
+ * **Week 8 - HTML, CSS, JavaScript ```[Protocols (TCP/IP, IP, TCP, DNS), HTTP]```**
+   * Lab
+     * **[Trivia]()**
+   * Problem set
+     * **[Homepage]()** 
+
    
   
   

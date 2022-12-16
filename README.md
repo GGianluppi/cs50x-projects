@@ -83,7 +83,6 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
      * **[Finance]()** 
      
 * **Week 10 - Final Project ```[]```**
-   * Final Project
      * **[]()**
 
    

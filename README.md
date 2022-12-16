@@ -75,6 +75,16 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
      * **[Trivia]()**
    * Problem set
      * **[Homepage]()** 
+     
+ * **Week 9 - Flask ```[]```**
+   * Lab
+     * **[Birthdays]()**
+   * Problem set
+     * **[Finance]()** 
+     
+* **Week 10 - Final Project ```[]```**
+   * Final Project
+     * **[]()**
 
    
   

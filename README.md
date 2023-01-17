@@ -76,7 +76,7 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
    * Problem set
      * **[Homepage]()** 
      
- * **Week 9 - Flask ```[]```**
+ * **Week 9 - Flask ```[Python Flask, Database, IEX Cloud API]```**
    * Lab
      * **[Birthdays]()**
    * Problem set

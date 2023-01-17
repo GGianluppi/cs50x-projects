@@ -80,7 +80,7 @@ Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
    * Lab
      * **[Birthdays]()**
    * Problem set
-     * **[Finance]()** 
+     * **[Finance]()** :fire:
      
 * **Week 10 - Final Project ```[]```**
      * **[]()**

@@ -1,7 +1,6 @@
 # CS50 Introduction to Computer Science
 
-Enroll here: **[CS50x](https://cs50.harvard.edu/x/2022/)**<br/>
-Instructor: **[David J. Malan](https://cs.harvard.edu/malan/)**
+Course link: **[CS50x](https://cs50.harvard.edu/x/2022/)**<br/>
 
 # Table of Contents 
 

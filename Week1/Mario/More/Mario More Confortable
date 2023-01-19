@@ -1,0 +1,48 @@
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+    int n;
+    do
+    {
+        // input the Width
+        n = get_int("Height: ");
+    }
+    // only between 1 and 8
+    while (n < 1 || n > 8);
+
+    {
+        for (int i = 1; i <= n; i++) // or for(int i = 0; i < n; i++)
+        {
+            // loop first pyramid
+            for (int j = 1; j <= n; j++)
+            {
+                if (j > n - i)
+                {
+                    printf("#");
+                }
+                else
+                {
+                    printf(" ");
+                }
+            }
+            // Space between
+            printf("  ");
+
+            // loop The second one
+            for (int k = 0; k < i; k++)
+            {
+                printf("#");
+            }
+            printf("\n");
+        }
+
+    }
+}
+
+ 
+
+    
+    
+    

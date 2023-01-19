@@ -1,0 +1,62 @@
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+    int count = 0;
+    int sum1 = 0, sum2 = 0;
+
+    long n =  get_long("Number: ");
+    long n1, n2;
+
+    while (n > 0)
+    {
+        // Sum even
+        if (count % 2 == 0)
+        {
+            sum1 += (n % 10);
+        }
+        else
+        {
+            // multiply odd
+            sum2 = (n % 10) * 2;
+            // If it is greater than 10
+            if (sum2 % 10 != 0 || sum2 % 10 == 0)
+            {
+                sum2 = (sum2 % 10) + (sum2 / 10);
+            }
+            // sum of multiplications
+            sum1 += sum2;
+        }
+        n2 = n1;
+        n1 = n;
+        count++; // count the number of digits
+        n /= 10; // Repeatedly divide by 10 until 0 is reached
+    }
+    if (sum1 % 10 == 0)
+    {
+        //All American Express numbers start with 34 or 37
+        if ((count == 15) && ((n2 == 34) || (n2 == 37)))
+        {
+            printf("AMEX\n");
+        }
+        //MasterCard numbers start with 51, 52, 53, 54, or 55
+        else if ((count == 16) && ((n2 == 51) || (n2 == 52) || (n2 == 53) || (n2 == 54) || (n2 == 55)))
+        {
+            printf("MASTERCARD\n");
+        }
+        //Visa numbers start with 4
+        else if ((n1 == 4) && (count == 13 || count == 16))
+        {
+            printf("VISA\n");
+        }
+        else
+        {
+            printf("INVALID\n");
+        }
+    }
+    else
+    {
+        printf("INVALID\n");
+    }
+}

@@ -6,7 +6,7 @@ Course link: **[CS50x](https://cs50.harvard.edu/x/2022/)**<br/>
 
 * **Week 0 - Scratch ```[Basic of programming]```**
   * Problem set
-    * **[Scratch project]()**
+    * **[Scratch project](https://github.com/GGianluppi/cs50x-projects/tree/main/Week0)**
 
 * **Week 1 - C ```[Basic of C (Operators, Conditional Statements, Loops), Greedy Algorithm]```**
   * Lab

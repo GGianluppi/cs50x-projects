@@ -10,13 +10,13 @@ Course link: **[CS50x](https://cs50.harvard.edu/x/2022/)**<br/>
 
 * **Week 1 - C ```[Basic of C (Operators, Conditional Statements, Loops), Greedy Algorithm]```**
   * Lab
-    * **[Hello]()**
+    * **[Hello](https://github.com/GGianluppi/cs50x-projects/tree/main/Week1/Hello)**
   * Problem set
-    * **[Mario]()**
-       * **[Less confortable]()**
-       * **[More confortable]()**
-    * **[Cash]()**
-    * **[Credit]()**
+    * **[Mario](https://github.com/GGianluppi/cs50x-projects/tree/main/Week1/Mario)**
+       * **[Less confortable](https://github.com/GGianluppi/cs50x-projects/tree/main/Week1/Mario/Less)**
+       * **[More confortable](https://github.com/GGianluppi/cs50x-projects/tree/main/Week1/Mario/More)**
+    * **[Cash](https://github.com/GGianluppi/cs50x-projects/tree/main/Week1/Cash)**
+    * **[Credit](https://github.com/GGianluppi/cs50x-projects/tree/main/Week1/Credit)**
 
 * **Week 2 - Arrays ```[Arrays, Cryptography, Encryption]```**
   * Lab
@@ -28,58 +28,58 @@ Course link: **[CS50x](https://cs50.harvard.edu/x/2022/)**<br/>
     
 * **Week 3 - Algorithms ```[Algorithms (Linear Search, Binary Search, Bubble Sort, Selection Sort, Merge Sort), Recursion, Graph Theory Basics]```**
   * Lab
-    * **[Sort]()**
+    * **[Sort](https://github.com/GGianluppi/cs50x-projects/tree/main/Week3/Lab3)**
   * Problem set
-    * **[Plurality]()**
-    * **[Runoff]()**
-    * **[Tideman]()** :fire:
+    * **[Plurality](https://github.com/GGianluppi/cs50x-projects/tree/main/Week3/Plurality)**
+    * **[Runoff](https://github.com/GGianluppi/cs50x-projects/tree/main/Week3/Runoff)**
+    * **[Tideman](https://github.com/GGianluppi/cs50x-projects/tree/main/Week3/Tideman)** :fire:
     
 * **Week 4 - Memory ```[Pointers, Dynamic Memory Allocation, Call Stack, Image filters, File manipulation & Data Recovery]```**
   * Lab
-    * **[Volume]()**
+    * **[Volume](https://github.com/GGianluppi/cs50x-projects/tree/main/Week4/Lab4)**
   * Problem set
-    * **[Filter]()**
-      * **[Less confortable]()**
-      * **[More confortable]()**
-    * **[Recover]()**
+    * **[Filter](https://github.com/GGianluppi/cs50x-projects/tree/main/Week4/Filter)**
+      * **[Less confortable](https://github.com/GGianluppi/cs50x-projects/tree/main/Week4/Filter/Less)**
+      * **[More confortable](https://github.com/GGianluppi/cs50x-projects/tree/main/Week4/Filter/More)**
+    * **[Recover](https://github.com/GGianluppi/cs50x-projects/tree/main/Week4/Recover)**
 
 * **Week 5 - Data Structures ```[Data Structures, Linked list, Hash tables, Trees]```**
   * Lab
-    * **[Inheritance]()**
+    * **[Inheritance](https://github.com/GGianluppi/cs50x-projects/tree/main/Week5/Lab5)**
   * Problem set
-    * **[Speller]()** :fire:
+    * **[Speller](https://github.com/GGianluppi/cs50x-projects/tree/main/Week5/Speller)** :fire:
 
 * **Week 6 - Python ```[Basic of Python, Algorithms, File]```**
   * Lab
-    * **[World Cup]()**
+    * **[World Cup](https://github.com/GGianluppi/cs50x-projects/tree/main/Week6/Lab6)**
   * Problem set
     * **[Hello]()**
-    * **[Mario]()**
+    * **[Mario](https://github.com/GGianluppi/cs50x-projects/tree/main/Week6/Mario)**
       * **[Less confortable]()**
       * **[More confortable]()**
-    * **[Cash]()**
-    * **[Credit]()**
-    * **[Readability]()**
-    * **[DNA]()**
+    * **[Cash](https://github.com/GGianluppi/cs50x-projects/tree/main/Week6/Cash)**
+    * **[Credit](https://github.com/GGianluppi/cs50x-projects/tree/main/Week6/Credit)**
+    * **[Readability](https://github.com/GGianluppi/cs50x-projects/tree/main/Week6/Readability)**
+    * **[DNA](https://github.com/GGianluppi/cs50x-projects/tree/main/Week6/DNA)**
     
  * **Week 7 - SQL ```[Data processing, Relational Dadabase]```**
    * Lab
-     * **[Songs]()**
+     * **[Songs](https://github.com/GGianluppi/cs50x-projects/tree/main/Week7/Lab7)**
    * Problem set
-     * **[Movies]()** 
-     * **[Fiftyville]()**
+     * **[Movies](https://github.com/GGianluppi/cs50x-projects/tree/main/Week7/Movies)** 
+     * **[Fiftyville](https://github.com/GGianluppi/cs50x-projects/tree/main/Week7/Fiftyville)**
      
  * **Week 8 - HTML, CSS, JavaScript ```[Protocols (TCP/IP, IP, TCP, DNS), HTTP]```**
    * Lab
-     * **[Trivia]()**
+     * **[Trivia](https://github.com/GGianluppi/cs50x-projects/tree/main/Week8/Trivia)**
    * Problem set
-     * **[Homepage]()** 
+     * **[Homepage](https://github.com/GGianluppi/cs50x-projects/tree/main/Week8/Homepage)** 
      
  * **Week 9 - Flask ```[Python Flask, Database, IEX Cloud API]```**
    * Lab
-     * **[Birthdays]()**
+     * **[Birthdays](https://github.com/GGianluppi/cs50x-projects/tree/main/Week9/Birthdays)**
    * Problem set
-     * **[Finance]()** :fire:
+     * **[Finance](https://github.com/GGianluppi/cs50x-projects/tree/main/Week9/Finance)** :fire:
      
 * **Week 10 - Final Project ```[]```**
      * **[]()**

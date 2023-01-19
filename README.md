@@ -1,6 +1,6 @@
 # CS50 Introduction to Computer Science
 
-Course link: **[CS50x](https://cs50.harvard.edu/x/2022/)**<br/>
+**Course link:** **[CS50x](https://cs50.harvard.edu/x/2022/)**<br/>
 
 # Table of Contents 
 
@@ -53,7 +53,7 @@ Course link: **[CS50x](https://cs50.harvard.edu/x/2022/)**<br/>
   * Lab
     * **[World Cup](https://github.com/GGianluppi/cs50x-projects/tree/main/Week6/Lab6)**
   * Problem set
-    * **[Hello]()**
+    * **[Hello](https://github.com/GGianluppi/cs50x-projects/tree/main/Week6/Hello)**
     * **[Mario](https://github.com/GGianluppi/cs50x-projects/tree/main/Week6/Mario)**
       * **[Less confortable]()**
       * **[More confortable]()**

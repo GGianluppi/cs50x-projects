@@ -1,6 +1,6 @@
 # CS50 Introduction to Computer Science
 
-**Course link:** **[CS50x](https://cs50.harvard.edu/x/2022/)**<br/>
+**Course link:** **[CS50x](https://cs50.harvard.edu/x/2023/)**<br/>
 
 # Table of Contents 
 

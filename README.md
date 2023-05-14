@@ -81,8 +81,6 @@
    * Problem set
      * **[Finance](https://github.com/GGianluppi/cs50x-projects/tree/main/Week9/Finance)** :fire:
      
-* **Week 10 - Final Project**
-     * **[Inventory Management]()**
 
    
   

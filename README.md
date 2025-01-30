@@ -20,11 +20,11 @@
 
 * **Week 2 - Arrays ```[Arrays, Cryptography, Encryption]```**
   * Lab
-    * **[Scrabble]()**
+    * **[Scrabble](https://github.com/GGianluppi/cs50x-projects/tree/main/Week2/Lab2)**
   * Problem set
-    * **[Readability]()**
-    * **[Ceasar]()**
-    * **[Substitution]()**
+    * **[Readability](https://github.com/GGianluppi/cs50x-projects/tree/main/Week2/Readability)**
+    * **[Ceasar](https://github.com/GGianluppi/cs50x-projects/tree/main/Week2/Caesar)**
+    * **[Substitution](https://github.com/GGianluppi/cs50x-projects/tree/main/Week2/Substitution)**
     
 * **Week 3 - Algorithms ```[Algorithms (Linear Search, Binary Search, Bubble Sort, Selection Sort, Merge Sort), Recursion, Graph Theory Basics]```**
   * Lab
